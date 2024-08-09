@@ -8,4 +8,10 @@
 ### langs:
 > html, css, javascript, python, c/c++
 
+### Connect with me:
+
+[![Instagram](https://www.instagram.com/fernandaellen.ss?igsh=Y2J4eHNyeWJyYXg0)
+
 ![Imagem](https://i.pinimg.com/originals/6c/66/c6/6c66c6270616b94882d2bf825aa2612e.jpg)
+
+
