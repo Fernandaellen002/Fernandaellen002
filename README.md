@@ -14,4 +14,6 @@
 
 ![Imagem](https://i.pinimg.com/originals/6c/66/c6/6c66c6270616b94882d2bf825aa2612e.jpg)
 
+![Snake animation](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
+
 
