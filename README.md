@@ -5,7 +5,7 @@
 - computer science student
 - working with personal or school projects
 
-### langs:
+### learning:
 > html, css, javascript, python, c/c++
 
 <p align="left">
